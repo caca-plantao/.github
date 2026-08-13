@@ -27,4 +27,4 @@ O **Caça Plantão** utiliza um conjunto moderno de tecnologias para garantir de
 - **Python**: Aplicado em rotinas de processamento de dados e componentes de inteligência artificial.
 - **Inteligência Artificial (IA)**: Implementada para interpretar e filtrar mensagens de empregadores, automatizando a categorização das oportunidades.
 - **Banco de Dados**: Estrutura robusta para armazenamento seguro e eficiente das informações.
-- **Infraestrutura**: Hospedagem e serviços em nuvem utilizando a plataforma **Azure**, garantindo alta disponibilidade e confiabilidade.
+- **Infraestrutura**: Hospedagem e serviços em nuvem na **AWS**, com entrega do site por CDN e implantação automatizada a cada release.
