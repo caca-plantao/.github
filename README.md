@@ -12,7 +12,7 @@ A vaga de plantão chega até você: no site, no app e no WhatsApp.
 ## Para escalistas e quem publica
 
 - Publique a vaga pelo WhatsApp com um toque.
-- Gerencie escalas e vagas no portal: https://escalista.cacaplantao.com.br
+- Gerencie suas vagas no portal: https://escalista.cacaplantao.com.br
 - Veja o retorno: quem respondeu à sua vaga.
 
 ## Dados abertos do mercado
