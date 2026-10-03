@@ -1,31 +1,32 @@
 # Caça Plantão
 
-**Conectando médicos a oportunidades de plantão com inteligência artificial.**
+A vaga de plantão chega até você: no site, no app e no WhatsApp.
 
-## Sobre o Projeto
+## Para médicos
 
-O **Caça Plantão** é um serviço inovador que avisa médicos sobre oportunidades de plantão, eliminando a necessidade de monitorar diversos grupos de WhatsApp. Utilizamos inteligência artificial para interpretar e filtrar mensagens enviadas por empregadores, facilitando o acesso rápido e eficiente a novas vagas.
+- Vagas de plantão de grupos de WhatsApp, lidas e organizadas por IA.
+- Aviso por especialidade e raio, para você ver só o que serve.
+- Mercado: o que cada plantão paga, por especialidade e estado.
+- Site e app: https://cacaplantao.com.br | Mercado: https://cacaplantao.com.br/mercado
 
-## Principais Funcionalidades
+## Para escalistas e quem publica
 
-- Notificações em tempo real de oportunidades de plantão.
-- Interpretação automática de mensagens de empregadores usando IA.
-- Centralização das vagas em uma plataforma única.
-- Privacidade e segurança dos dados dos usuários.
+- Publique a vaga pelo WhatsApp com um toque.
+- Gerencie escalas e vagas no portal: https://escalista.cacaplantao.com.br
+- Veja o retorno: quem respondeu à sua vaga.
 
-## Como Funciona
+## Dados abertos do mercado
 
-1. **Empregadores** enviam oportunidades de plantão.
-2. A **IA do Caça Plantão** interpreta e categoriza as vagas.
-3. **Médicos cadastrados** recebem notificações personalizadas conforme seu perfil e preferências.
+- API pública, só leitura, de plantões e mercado: https://apiv2.cacaplantao.com.br/api/docs
+- Instagram @caca.plantao, com os cards do mercado.
 
-## Tecnologias Utilizadas
+## Como é feito
 
-O **Caça Plantão** utiliza um conjunto moderno de tecnologias para garantir desempenho, segurança e escalabilidade:
+- API em Node.
+- Worker em Python que lê as mensagens com IA.
+- Site e app instaláveis.
+- Infraestrutura na AWS.
 
-- **Node.js**: Utilizado para o desenvolvimento do backend e integração de serviços.
-- **Python**: Aplicado em rotinas de processamento de dados e componentes de inteligência artificial.
-- **Inteligência Artificial (IA)**: Implementada para interpretar e filtrar mensagens de empregadores, automatizando a categorização das oportunidades.
-- **Banco de Dados**: Estrutura robusta para armazenamento seguro e eficiente das informações.
-- **Infraestrutura**: Hospedagem e serviços em nuvem na **AWS**, com entrega do site por CDN e implantação automatizada a cada release.
+## Contato
 
+https://cacaplantao.com.br/sobre
